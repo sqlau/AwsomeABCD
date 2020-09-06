@@ -32,7 +32,7 @@
 
 
 #### DAO
-- [Aragon](https://aragon.org/)
+- [Aragon](https://aragon.org/) ![avatar](https://assets.website-files.com/5e997428d0f2eb13a90aec8c/5e99aee610343ef6a8ea3d34_logo_01.svg)
 - [DAOStack](https://daostack.io/)
 - [DXdao](https://dxdao.eth.link/#/)
 - [Colony](https://colony.io/)
