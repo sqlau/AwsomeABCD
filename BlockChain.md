@@ -4,6 +4,17 @@
 
 ## 入门和简介
 
+### 区块链简介
+
+### 密码学基础
+
+### 共识算法
+
+### P2P网络
+
+### 分布式存储
+
+### Web3
 
 ## 主要公链项目
 
@@ -15,6 +26,18 @@
 - [PolkaDot]
 
 ## 应用领域
+
+### 存证
+
+### 供应链
+
+### 溯源和追溯
+
+### 资产所有权
+
+### 媒体和广告
+
+### 能源和电力
 
 ### DeFi
 
@@ -33,7 +56,7 @@
 
 
 #### DAO
-- [Aragon](https://aragon.org/) ![avatar](https://assets.website-files.com/5e997428d0f2eb13a90aec8c/5e99aee610343ef6a8ea3d34_logo_01.svg)
+- [Aragon](https://aragon.org/) 
 - [DAOStack](https://daostack.io/)
 - [DXdao](https://dxdao.eth.link/#/)
 - [Colony](https://colony.io/)
@@ -56,5 +79,26 @@
 ## 政策
 
 ## 智库洞见
+### 技术公司
+### 咨询公司
+#### 德勤
+#### 埃森哲
+#### 普华永道
+#### 麦肯锡
+### 媒体
+#### 麻省理工技术评论 MitTR
+#### 哈佛商业评论 HBR
+### 组织
+#### 世界经济论坛 WEF
+
+## 技术平台
+
+- [数字资产建模语言 DAML](https://daml.com/)
 
 ## 学习和教程
+
+
+## 书籍
+- [Master Blockchain]() : [eBook]()
+-  
+
