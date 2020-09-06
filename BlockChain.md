@@ -3,7 +3,7 @@
 [返回主索引](./README.md)
 
 ## 入门和简介
-
+- [Blockchain: A technical primer](https://www2.deloitte.com/us/en/insights/topics/emerging-technologies/blockchain-technical-primer.html)
 ### 区块链简介
 
 ### 密码学基础
@@ -13,6 +13,8 @@
 ### P2P网络
 
 ### 分布式存储
+
+### 二层协议
 
 ### Web3
 
@@ -33,6 +35,8 @@
 - 
 
 ## 应用领域
+
+### 区块链应用生态图谱
 
 ### 存证
 
@@ -96,27 +100,35 @@
 ### 地方政府
 #### 北京
 #### 天津
-
+#### 河北
+#### 四川
+#### 海南
+#### 广东
 ## 智库洞见
 ### 技术公司
 ### 咨询公司
 #### 德勤
+- [Blockchain: A technical primer](https://www2.deloitte.com/us/en/insights/topics/emerging-technologies/blockchain-technical-primer.html)
+- [Blockchain: Democratized trust : Distributed ledgers and the future of value](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2016/blockchain-applications-and-trust-in-a-global-economy.html)
 #### 埃森哲
 #### 普华永道
 #### 麦肯锡
 ### 媒体
 #### 麻省理工技术评论 MitTR
 #### 哈佛商业评论 HBR
+#### 经济学人
 ### 组织
 #### 世界经济论坛 WEF
 #### 世界能源理事会
 #### 世界银行
 ### 行业协会
 #### 可信区块链协会
+#### 美国国家标准局 
 
 ## 技术平台
 
 - [数字资产建模语言 DAML](https://daml.com/)
+- [以太坊开发工具套件 Truffle]()
 
 ## 学习和教程
 
