@@ -21,6 +21,7 @@
 #### 去中心化交易所
 - [IDEX](https://idex.market)
 - [路印/Loopring](https://loopring.io/)
+- [AirSwap](https://www.airswap.io/)
 
 #### 钱包
 
