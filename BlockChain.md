@@ -1,5 +1,6 @@
 # 区块链 | BlockChain
 
+[进入区块链板块](BlockChain.md)
 
 ## 入门和简介
 
