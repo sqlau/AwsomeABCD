@@ -20,6 +20,7 @@
 
 #### 去中心化交易所
 - [IDEX](https://idex.market)
+- [路印/Loopring](https://loopring.io/)
 
 #### 钱包
 
@@ -28,6 +29,12 @@
 
 
 #### 支付
+
+
+#### DAO
+
+
+#### 证券STO
 
 
 ## 学习和教程
