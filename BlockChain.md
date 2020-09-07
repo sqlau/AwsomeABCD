@@ -3,8 +3,11 @@
 [返回主索引](./README.md)
 
 ## 入门和简介
-- [Blockchain: A technical primer](https://www2.deloitte.com/us/en/insights/topics/emerging-technologies/blockchain-technical-primer.html)
+
+------
+
 ### 区块链简介
+- [Blockchain: A technical primer ](https://www2.deloitte.com/us/en/insights/topics/emerging-technologies/blockchain-technical-primer.html)
 
 ### 密码学基础
 
@@ -53,9 +56,16 @@
 ### DeFi
 
 #### 去中心化交易所
-- [IDEX](https://idex.market)
-- [路印/Loopring](https://loopring.io/)
-- [AirSwap](https://www.airswap.io/)
+
+| [IDEX](https://idex.market)           | 主要交易以太坊ERC20代币令牌和资产.目前已准备升级到2.0 | [白皮书](https://idex.io/document/IDEX-2-0-Whitepaper-2019-10-31.pdf) |
+| ------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| [路印/Loopring](https://loopring.io/) |                                                       |                                                              |
+| [AirSwap](https://www.airswap.io/)    |                                                       |                                                              |
+|                                       |                                                       |                                                              |
+
+
+
+
 
 #### 钱包
 
