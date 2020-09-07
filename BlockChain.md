@@ -8,6 +8,8 @@
 
 ### 区块链简介
 - [Blockchain: A technical primer ](https://www2.deloitte.com/us/en/insights/topics/emerging-technologies/blockchain-technical-primer.html) [德勤]   [中文版译本]()
+- [信息图:区块链基础(PWC)](https://www.digitalpulse.pwc.com.au/infographic-blockchain-essentials/)
+- [Infographic: Blockchain explained](https://www.digitalpulse.pwc.com.au/pwc-blockchain-infographic/)
 
 ### 密码学基础
 
